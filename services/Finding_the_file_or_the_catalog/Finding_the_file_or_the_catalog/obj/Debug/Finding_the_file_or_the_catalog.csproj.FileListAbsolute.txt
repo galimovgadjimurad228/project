@@ -4,3 +4,6 @@ C:\Users\Магомед\Desktop\Project\Finding_the_file_or_the_catalog\Finding_
 C:\Users\Магомед\Desktop\Project\Finding_the_file_or_the_catalog\Finding_the_file_or_the_catalog\bin\Debug\Finding_the_file_or_the_catalog.pdb
 C:\Users\Магомед\Desktop\Project\Finding_the_file_or_the_catalog\Finding_the_file_or_the_catalog\obj\Debug\Finding_the_file_or_the_catalog.exe
 C:\Users\Магомед\Desktop\Project\Finding_the_file_or_the_catalog\Finding_the_file_or_the_catalog\obj\Debug\Finding_the_file_or_the_catalog.pdb
+C:\Users\Магомед\Desktop\Project\project\services\Finding_the_file_or_the_catalog\Finding_the_file_or_the_catalog\bin\Debug\Finding_the_file_or_the_catalog.exe.config
+C:\Users\Магомед\Desktop\Project\project\services\Finding_the_file_or_the_catalog\Finding_the_file_or_the_catalog\obj\Debug\Finding_the_file_or_the_catalog.exe
+C:\Users\Магомед\Desktop\Project\project\services\Finding_the_file_or_the_catalog\Finding_the_file_or_the_catalog\obj\Debug\Finding_the_file_or_the_catalog.pdb

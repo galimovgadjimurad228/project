@@ -9,3 +9,6 @@ C:\Users\Магомед\Desktop\Project\services\Change\Change\obj\Debug\Change.
 C:\Users\Магомед\Desktop\Project\services\Change\Change\bin\Debug\Change.exe
 C:\Users\Магомед\Desktop\Project\services\Change\Change\bin\Debug\Change.pdb
 C:\Users\Магомед\Desktop\Project\services\Change\Change\obj\Debug\Change.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Desktop\Project\project\services\Change\Change\bin\Debug\Change.exe.config
+C:\Users\Магомед\Desktop\Project\project\services\Change\Change\obj\Debug\Change.exe
+C:\Users\Магомед\Desktop\Project\project\services\Change\Change\obj\Debug\Change.pdb

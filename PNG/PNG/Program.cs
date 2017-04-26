@@ -110,6 +110,9 @@ namespace PNG
             long lenght = info_of_files.Length;
             DATA=new byte[lenght];
             input.Read(DATA,0,(int)lenght);
+            Png_Encriptor encriptor = new Png_Encriptor();
+            DATA=encriptor.encript(DATA);
+            output.Write(DATA,0,DATA.Length);
         }
     }
 }

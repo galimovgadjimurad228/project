@@ -13,17 +13,19 @@ namespace PNG
 
     class Png_Encriptor : Encriptor
     {
-        public byte[] encript(byte[] png_data)
+        public override byte[] encript(byte[] png_data)
         {
             PngParser pngParser = new PngParser(png_data);
-            List<Chunk> newChunks;
+            List<Chunk> newChunks = new List<Chunk>();
             foreach (var chunk in pngParser.Chunks)
             {
-                chunk.DATA = Chunk.Pack((Change2Bits(chunk.unpack()));
+                chunk.DATA = Chunk.Pack((Change2Bits(chunk.Unpack())));
                 newChunks.Add(chunk);
             }
-            PngParser newPngParser = new PngParser(pngParser.signature, pngParser.IHDR..., newChunks);
-            return newPngParser.PngData;
+            PngParser newPngParser = new PngParser(pngParser.Png_signature, pngParser._IHDR, newChunks, pngParser.IEND);
+            return newPngParser.Png_DATA;
         }
+        public byte[] Change2Bits(byte[] array)
+        { return array; }
     }
 }
