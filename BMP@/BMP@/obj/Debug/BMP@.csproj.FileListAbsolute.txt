@@ -1,0 +1,18 @@
+C:\Users\Магомед\Desktop\BMP@\BMP@\bin\Debug\BMP@.exe.config
+C:\Users\Магомед\Desktop\BMP@\BMP@\obj\Debug\BMP@.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Desktop\BMP@\BMP@\bin\Debug\BMP@.exe
+C:\Users\Магомед\Desktop\BMP@\BMP@\bin\Debug\BMP@.pdb
+C:\Users\Магомед\Desktop\BMP@\BMP@\obj\Debug\BMP@.exe
+C:\Users\Магомед\Desktop\BMP@\BMP@\obj\Debug\BMP@.pdb
+C:\Users\Милана Галимова\Desktop\BMP@\BMP@\bin\Debug\BMP@.exe.config
+C:\Users\Милана Галимова\Desktop\BMP@\BMP@\obj\Debug\BMP@.exe
+C:\Users\Милана Галимова\Desktop\BMP@\BMP@\obj\Debug\BMP@.pdb
+C:\Users\Милана Галимова\Desktop\BMP@\BMP@\bin\Debug\BMP@.exe
+C:\Users\Милана Галимова\Desktop\BMP@\BMP@\bin\Debug\BMP@.pdb
+C:\Users\Милана Галимова\Desktop\BMP@\BMP@\obj\Debug\BMP@.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Desktop\Project\BMP@\BMP@\bin\Debug\BMP@.exe.config
+C:\Users\Магомед\Desktop\Project\BMP@\BMP@\obj\Debug\BMP@.exe
+C:\Users\Магомед\Desktop\Project\BMP@\BMP@\obj\Debug\BMP@.pdb
+C:\Users\Магомед\Desktop\Project\BMP@\BMP@\bin\Debug\BMP@.exe
+C:\Users\Магомед\Desktop\Project\BMP@\BMP@\bin\Debug\BMP@.pdb
+C:\Users\Магомед\Desktop\Project\BMP@\BMP@\obj\Debug\BMP@.csprojResolveAssemblyReference.cache

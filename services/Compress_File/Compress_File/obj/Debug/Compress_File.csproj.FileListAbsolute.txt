@@ -1,0 +1,6 @@
+C:\Users\Магомед\Desktop\Project\Compress_File\Compress_File\bin\Debug\Compress_File.exe.config
+C:\Users\Магомед\Desktop\Project\Compress_File\Compress_File\bin\Debug\Compress_File.exe
+C:\Users\Магомед\Desktop\Project\Compress_File\Compress_File\bin\Debug\Compress_File.pdb
+C:\Users\Магомед\Desktop\Project\Compress_File\Compress_File\obj\Debug\Compress_File.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Desktop\Project\Compress_File\Compress_File\obj\Debug\Compress_File.exe
+C:\Users\Магомед\Desktop\Project\Compress_File\Compress_File\obj\Debug\Compress_File.pdb

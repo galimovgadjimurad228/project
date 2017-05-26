@@ -1,0 +1,6 @@
+C:\Users\Магомед\Desktop\Project\PNG\PNG\bin\Debug\PNG.exe.config
+C:\Users\Магомед\Desktop\Project\PNG\PNG\bin\Debug\PNG.exe
+C:\Users\Магомед\Desktop\Project\PNG\PNG\bin\Debug\PNG.pdb
+C:\Users\Магомед\Desktop\Project\PNG\PNG\obj\Debug\PNG.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Desktop\Project\PNG\PNG\obj\Debug\PNG.exe
+C:\Users\Магомед\Desktop\Project\PNG\PNG\obj\Debug\PNG.pdb

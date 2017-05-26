@@ -1,0 +1,18 @@
+C:\Users\Магомед\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.exe.config
+C:\Users\Магомед\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.exe
+C:\Users\Магомед\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.pdb
+C:\Users\Магомед\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.exe
+C:\Users\Магомед\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.pdb
+C:\Users\Магомед\Desktop\Project\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.exe.config
+C:\Users\Магомед\Desktop\Project\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.exe
+C:\Users\Магомед\Desktop\Project\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.pdb
+C:\Users\Магомед\Desktop\Project\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.exe
+C:\Users\Магомед\Desktop\Project\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.pdb
+C:\Users\Магомед\Desktop\Project\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.csprojResolveAssemblyReference.cache
+C:\Users\Милана Галимова\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.exe.config
+C:\Users\Милана Галимова\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.exe
+C:\Users\Милана Галимова\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.pdb
+C:\Users\Милана Галимова\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.exe
+C:\Users\Милана Галимова\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\bin\Debug\JPEG_for_mine_project.pdb
+C:\Users\Милана Галимова\Desktop\JPEG_for_mine_project\JPEG_for_mine_project\obj\Debug\JPEG_for_mine_project.csprojResolveAssemblyReference.cache
