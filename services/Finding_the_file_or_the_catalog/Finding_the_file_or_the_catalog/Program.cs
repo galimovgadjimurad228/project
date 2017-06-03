@@ -14,14 +14,11 @@ namespace Finding_the_file_or_the_catalog
         static string searchTerm;
         static void Main(string[] args)
         {
-            if (!ParseArgs(args))
-            {
-                PrintUsage();
-                return;
-            }
             Console.WriteLine("Searching {0} for\"{1}\"{2}",
                 startFolder,searchTerm,
                 folderOnly);
+            startFolder = Console.ReadLine();
+            searchTerm = Console.ReadLine();
             DoSearch();
         }
         private static void DoSearch()
@@ -63,16 +60,6 @@ namespace Finding_the_file_or_the_catalog
             Console.WriteLine("Usage:Find[-directory] SearchTerm StartFolder");
             Console.WriteLine("Ex:Find - directory code D:\\Projects");
             Console.WriteLine("* wildcards are accepted");
-        }
-        static bool ParseArgs(string[] args)
-        {
-            if (args.Length < 2)
-            {
-                return false;
-            }
-            startFolder = args[args.Length - 1];
-            searchTerm = args[args.Length - 2];
-            return true;
         }
     }
 }

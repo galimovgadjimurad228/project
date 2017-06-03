@@ -1,0 +1,12 @@
+c:\users\магомед\documents\visual studio 2013\Projects\ebuch_project\ebuch_project\bin\Debug\ebuch_project.exe.config
+c:\users\магомед\documents\visual studio 2013\Projects\ebuch_project\ebuch_project\obj\Debug\ebuch_project.csprojResolveAssemblyReference.cache
+C:\Users\Магомед\Documents\Visual Studio 2013\Projects\ebuch_project\ebuch_project\bin\Debug\ebuch_project.exe
+C:\Users\Магомед\Documents\Visual Studio 2013\Projects\ebuch_project\ebuch_project\bin\Debug\ebuch_project.pdb
+C:\Users\Магомед\Documents\Visual Studio 2013\Projects\ebuch_project\ebuch_project\obj\Debug\ebuch_project.exe
+C:\Users\Магомед\Documents\Visual Studio 2013\Projects\ebuch_project\ebuch_project\obj\Debug\ebuch_project.pdb
+C:\Users\Магомед\Desktop\Project\project\ebuch_project\ebuch_project\bin\Debug\ebuch_project.exe.config
+C:\Users\Магомед\Desktop\Project\project\ebuch_project\ebuch_project\obj\Debug\ebuch_project.exe
+C:\Users\Магомед\Desktop\Project\project\ebuch_project\ebuch_project\obj\Debug\ebuch_project.pdb
+C:\Users\Магомед\Desktop\Project\project\ebuch_project\ebuch_project\bin\Debug\ebuch_project.exe
+C:\Users\Магомед\Desktop\Project\project\ebuch_project\ebuch_project\bin\Debug\ebuch_project.pdb
+C:\Users\Магомед\Desktop\Project\project\ebuch_project\ebuch_project\obj\Debug\ebuch_project.csprojResolveAssemblyReference.cache

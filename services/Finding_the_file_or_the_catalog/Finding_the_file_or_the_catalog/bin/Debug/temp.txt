@@ -1,16 +1,3 @@
-Searching c:\Program Files (x86) for"*Microsoft*"False
+Searching c:\Program Files (x86) for"Microsoft"False
 Microsoft	c:\Program Files (x86)
-Microsoft Analysis Services	c:\Program Files (x86)
-Microsoft ASP.NET	c:\Program Files (x86)
-Microsoft Help Viewer	c:\Program Files (x86)
-Microsoft Office	c:\Program Files (x86)
-Microsoft SDKs	c:\Program Files (x86)
-Microsoft Silverlight	c:\Program Files (x86)
-Microsoft SQL Server	c:\Program Files (x86)
-Microsoft SQL Server Compact Edition	c:\Program Files (x86)
-Microsoft Visual Studio 12.0	c:\Program Files (x86)
-Microsoft WCF Data Services	c:\Program Files (x86)
-Microsoft Web Tools	c:\Program Files (x86)
-Microsoft Works	c:\Program Files (x86)
-Microsoft.NET	c:\Program Files (x86)
-14results found
+1results found

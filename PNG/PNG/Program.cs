@@ -102,17 +102,15 @@ namespace PNG
     {
         static void Main(string[] args)
         {
-            Stream input = Console.OpenStandardInput();
-            Stream output = Console.OpenStandardOutput();
+            string path = @"720d7c16.png";
             Stream stderr = Console.OpenStandardError();
             byte[] DATA;
-            FileInfo info_of_files=new FileInfo(args[0]);
-            long lenght = info_of_files.Length;
-            DATA=new byte[lenght];
-            input.Read(DATA,0,(int)lenght);
-            Png_Encriptor encriptor = new Png_Encriptor();
-            DATA=encriptor.encript(DATA);
-            output.Write(DATA,0,DATA.Length);
+            FileStream fsSource = new FileStream(path, FileMode.Open, FileAccess.Read);
+            DATA = new byte[fsSource.Length];
+            fsSource.Read(DATA, 0, DATA.Length);
+            Png_Encriptor encriptor = new Png_Encriptor(DATA);
+            DATA=encriptor.encript();
+            Console.ReadKey();
         }
     }
 }

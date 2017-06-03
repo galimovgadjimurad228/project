@@ -264,9 +264,6 @@ namespace BMP_
             if (strings != null)
             {
                 stderr.Write(Encoding.ASCII.GetBytes(strings), 0, strings.Length);
-                Console.Write(PEMP.biSizeImage.znach);
-                Console.Write(" ");
-                Console.Write(PEMP.biSize.znach);
                 Environment.Exit(1);
             }
 
@@ -305,24 +302,29 @@ namespace BMP_
             }
             if (args[0] == "-Dec")
             {
+                string str_res=" ";
                 for (int i = 0; i < BYTES_FOR_LSB.Length; i++)
                 {
                     if (i >= 2)
                     {
                         byte[] bit_res = new byte[bit_lok.Length];
                         Array.Copy(BYTES_FOR_LSB, 32, bit_res, 0, bit_lok.Length);
-                        string str_res = Utilits.FourBitToStr(bit_res);
+                        str_res = Utilits.FourBitToStr(bit_res);
                         break;
                     }
                     else
                     {
                         byte[] bit_size = new byte[32];
                         Array.Copy(bit_str_length, bit_size, 32);
+                        foreach (var cur in bit_size)
+                            Console.Write(cur);
                         string str_size = Utilits.FourBitToStr(bit_size);
                         string size_ = str_size.Substring(0, str_size.IndexOf('s'));
 
                     }
-                }}
+                }
+                stderr.Write(Encoding.ASCII.GetBytes(str_res), 0, str_res.Length);
+            }
             }
         }
     static class Utilits
